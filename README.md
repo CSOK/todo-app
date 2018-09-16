@@ -1,4 +1,9 @@
-# TodoApp
+## To be completed before Sunday 23rd September 2018.
+
+## Implement the following
+![To do application](/assignment/Assignment.gif)
+
+# TodoApp - Taks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
